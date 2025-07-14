@@ -89,4 +89,6 @@ Even though I'm detail-oriented and picky with code, I’ve learned that deliver
 
 ## 📫 Let's connect!
 
-- [LinkedIn](https://www.linkedin.com/in/cristophersolis/)
+- 🌐 [LinkedIn](https://www.linkedin.com/in/cristophersolis/)
+- 📧 Email: [cristoph.solis@outlook.com](mailto:cristoph.solis@outlook.com)
+<!-- - 💻 [Portafolio](https://tusitio.dev) -->
