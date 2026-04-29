@@ -1,7 +1,7 @@
 <h1 align="center">👋 Welcome, I'm Cristopher Solis</h1>
 
 <p align="center">
-  <em>UI / Front End Developer | HTML | CSS | JS | TS | React | React Native | Design System</em>
+  <em>Senior Frontend Developer | TypeScript | React | React Native | Next.js | Design System</em>
 </p>
 
 <p align="center">
@@ -49,7 +49,6 @@ Most of my work lives in private repositories at Globant and previous companies.
 ![Apollo](https://img.shields.io/badge/-Apollo%20GraphQL-311C87?logo=apollo-graphql&logoColor=white&style=flat-square)
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white&style=flat-square)
 ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?logo=reactquery&logoColor=white&style=flat-square)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=flat-square)
 ![NPM](https://img.shields.io/badge/-NPM-CB3837?logo=npm&logoColor=white&style=flat-square)
 ![Yarn](https://img.shields.io/badge/-Yarn-2C8EBB?logo=yarn&logoColor=white&style=flat-square)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square)
@@ -64,6 +63,7 @@ Most of my work lives in private repositories at Globant and previous companies.
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat-square)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=flat-square)
 
 ---
 
