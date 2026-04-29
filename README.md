@@ -22,7 +22,7 @@ WebView). Strong attention to detail and Pixel-Perfect approach working with Fig
 contributor to Lexical (Meta). Real-world experience working in international remote teams with agile
 methodologies, code review, and CI/CD workflows.
 
-Contributed to Meta’s official Lexical repository [PR #5077](github.com/facebook/lexical/pull/5077), resolving a critical rendering bug specific to
+Contributed to Meta’s official Lexical repository [PR #5077](https://github.com/facebook/lexical/pull/5077), resolving a critical rendering bug specific to
 Android devices.
 
 Most of my work lives in private repositories at Globant and previous companies.
