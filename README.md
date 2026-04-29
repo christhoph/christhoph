@@ -15,12 +15,17 @@
 
 ## 🧑‍💻 About me
 
-FrontEnd/UI Developer with 8+ years of experience building modern, accessible and high-performance interfaces.  
-I enjoy crafting pixel-perfect UIs, focusing on performance and working with modern tools like React, React Native, Astro, Tailwind, and more.
+Senior Frontend Developer with 9+ years of experience, specializing in React Native and React with TypeScript.
+Has taken mobile applications from scratch to production, implementing global state architectures, scalable
+design systems, WYSIWYG editors, and complex user flows (geolocation, payments, push notifications,
+WebView). Strong attention to detail and Pixel-Perfect approach working with Figma designs. Open source
+contributor to Lexical (Meta). Real-world experience working in international remote teams with agile
+methodologies, code review, and CI/CD workflows.
 
-I worked on large-scale products like taringa!, contributing to a full redesign, building a Design System from scratch, and solving unique challenges like integrating a WYSIWYG editor with WebView in RN.
+Contributed to Meta’s official Lexical repository [PR #5077](github.com/facebook/lexical/pull/5077), resolving a critical rendering bug specific to
+Android devices.
 
-I love mentoring, working remotely, optimizing components, and documenting best practices. I adapt quickly, learn fast, and I’m open to new opportunities if the project aligns with my interests.
+Most of my work lives in private repositories at Globant and previous companies.
 
 ---
 
@@ -91,4 +96,4 @@ Even though I'm detail-oriented and picky with code, I’ve learned that deliver
 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/cristophersolis/)
 - 📧 Email: [cristoph.solis@outlook.com](mailto:cristoph.solis@outlook.com)
-<!-- - 💻 [Portafolio](https://tusitio.dev) -->
+- 💻 [Portafolio](http://christhoph.dev/)
